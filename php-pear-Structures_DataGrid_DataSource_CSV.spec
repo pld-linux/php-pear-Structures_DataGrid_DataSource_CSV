@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - DataSource driver using CSV files
 Summary(pl):	%{_pearname} - sterownik DataSource dla plików CSV
 Name:		php-pear-%{_pearname}
-Version:	0.1.1
+Version:	0.1.3
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	5adf95c61c66fdd05e0ed69197219f97
+# Source0-md5:	25bf3f307b35ffe3578ece71461d394d
 URL:		http://pear.php.net/package/Structures_DataGrid_DataSource_CSV/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
