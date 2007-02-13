@@ -4,7 +4,7 @@
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_DataSource_CSV
 Summary:	%{_pearname} - DataSource driver using CSV files
-Summary(pl.UTF-8):   %{_pearname} - sterownik DataSource dla plików CSV
+Summary(pl.UTF-8):	%{_pearname} - sterownik DataSource dla plików CSV
 Name:		php-pear-%{_pearname}
 Version:	0.1.4
 Release:	1
